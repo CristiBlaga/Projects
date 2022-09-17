@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(255, 253, 250);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+header {
+    background-color: lightgray;
+    display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+    
+    width: 100%;
+    margin-bottom: 10px;
+}
+form {
+    background-color: lightgray;
+    width: fit-content;
+}
+h2 {
+    color: darkgray;
+}
+
+ul {
+   
+    border-top: 1px solid gray;
+    padding-top: 15px;
+    width: fit-content;
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+    
+}
+footer  h3, ul {
+display: flex;
+align-items: center;
+
+}
+a {
+    text-decoration: none;
+}

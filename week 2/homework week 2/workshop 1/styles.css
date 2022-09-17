@@ -1,0 +1,35 @@
+div {
+    margin: 20px;
+  }
+.theWrapper {
+    padding: 30px;
+    background-color: lightgray;
+    width: 500px;
+    border-collapse:collapse;
+    border-color: #f7f7f7;
+    display: table;
+  }
+  .firstRow {
+    background-color: yellow;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .secondRow {
+    background-color: #28aea3;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .thirdRow {
+    background-color: #166298;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .fourthRow {
+    background-color: yellow;
+    padding: 20px;display: flex;
+    justify-content: space-around;
+  }
+  
